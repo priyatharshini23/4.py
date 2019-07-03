@@ -1,6 +1,6 @@
 # 4.py
-Z=input("Enter a input ")
-if(Z=='A' or Z=='a' or Z=='E' or Z=='e' or Z=='I' or Z=='O' or Z=='o' or Z=='U' or Z=='u'):
-     print(Z,"is a vowel")
+R=input("Enter a input ")
+if(R=='A' or R=='a' or R=='E' or R=='e' or R=='I' or R=='O' or R=='o' or R=='U' or R=='u'):
+     print(R,"is a vowel")     
 else:
-     print(Z,"is a consonant")
+     print(R,"is a consonant")
